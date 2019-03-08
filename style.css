@@ -1,0 +1,46 @@
+
+body{
+	 background:#B6D6F2;
+	margin:0;
+	padding:0;
+}
+
+.title{
+  color:white;  
+}
+.company{font-family: Arial;}
+
+.name{color:white;
+font-size: 70px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+
+  .header {
+  background:  url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg) no-repeat center center; 
+  background-size: cover;
+  height: 800px;
+  line-height: 0;
+}
+.main-list li{
+	line-height: 2;
+	font:arial;
+	width: 80%;
+	text-align: block;
+}
+.experience h3{
+	font:arial;
+	
+}
+.experience h2{
+	font:arial;
+
+}
+.content{
+padding:80px;	
+}
+h2.spacing{
+	padding-top:100px;
+
+}
